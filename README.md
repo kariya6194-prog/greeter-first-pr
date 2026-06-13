@@ -4,7 +4,7 @@ A tiny practice project for making your **first pull request**.
 
 ## What it does
 
-`greet.py` builds a friendly greeting message from a name. Thats all it does —
+`greet.py` builds a friendly greeting message from a name. That's all it does —
 small on purpose, so the focus stays on the workflow, not the code.
 
 ## Usage
